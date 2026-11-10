@@ -1,6 +1,7 @@
 {
   "mcpServers": {
     "askgsc": {
+      "type": "http",
       "url": "https://mcp.askgsc.app/mcp"
     }
   }
