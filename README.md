@@ -32,7 +32,7 @@ https://mcp.askgsc.app/mcp
 
 Custom MCP availability and setup menus depend on the AI client, plan, and workspace. The remote server is **not** an npm package or a command to execute locally.
 
-**Setup guides:** [Getting started](docs/getting-started.md) · [ChatGPT](docs/chatgpt.md) · [Claude](docs/claude.md) · [Troubleshooting](docs/troubleshooting.md)
+**Cursor plugin:** [Cursor installation guide](docs/cursor.md) · **Setup guides:** [Getting started](docs/getting-started.md) · [ChatGPT](docs/chatgpt.md) · [Claude](docs/claude.md) · [Troubleshooting](docs/troubleshooting.md)
 
 ## Example Google Search Console prompts
 
