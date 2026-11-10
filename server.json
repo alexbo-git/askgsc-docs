@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.askgsc/askgsc",
+  "title": "AskGSC",
+  "description": "Analyze Google Search Console traffic, search queries, SEO opportunities and indexing with AI.",
+  "version": "1.0.0",
+  "websiteUrl": "https://askgsc.app",
+  "repository": {
+    "url": "https://github.com/alexbo-git/askgsc-docs",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.askgsc.app/mcp"
+    }
+  ]
+}
