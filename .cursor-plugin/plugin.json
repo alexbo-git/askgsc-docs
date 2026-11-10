@@ -1,0 +1,21 @@
+{
+  "name": "askgsc",
+  "displayName": "AskGSC – Google Search Console",
+  "version": "1.0.0",
+  "description": "Analyze Google Search Console traffic, SEO opportunities, indexing and search performance directly in Cursor using a read-only MCP server.",
+  "author": {
+    "name": "AskGSC",
+    "email": "alex@kalyvox.ai"
+  },
+  "homepage": "https://askgsc.app",
+  "repository": "https://github.com/alexbo-git/askgsc-docs",
+  "keywords": [
+    "seo",
+    "google-search-console",
+    "mcp",
+    "analytics",
+    "search-traffic",
+    "vibe-coding"
+  ],
+  "mcpServers": "mcp.json"
+}
